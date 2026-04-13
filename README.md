@@ -1,1 +1,1 @@
-# Lab7_ML
+The advertising dataset was loaded and explored using summary statistics and visualizations to understand feature relationships. Relevant features such as age, income, and internet usage were used for analysis. The data was split into training and testing sets to build the model. A Logistic Regression model was trained to predict whether a user clicks on an advertisement. The model’s performance was evaluated using a classification report to measure its accuracy.
